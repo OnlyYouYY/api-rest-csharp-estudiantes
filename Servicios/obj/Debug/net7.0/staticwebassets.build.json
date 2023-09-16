@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sGTkda7QcEw713dCYnh/XFOmcebhSBxDo6+2Nsb4bkU=",
+  "Source": "WebAPIEstudiante",
+  "BasePath": "_content/WebAPIEstudiante",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
